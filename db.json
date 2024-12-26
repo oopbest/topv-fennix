@@ -1,0 +1,114 @@
+{
+    "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "Noise-cancelling wireless headphones with long battery life.",
+      "price": 99.99,
+      "category": "Electronics",
+      "rating": 4,
+      "stock": 30,
+      "image": "https://picsum.photos/350/400",
+      "tags": ["wireless", "audio", "electronics"]
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch",
+      "description": "Fitness tracker with heart rate monitoring and GPS.",
+      "price": 149.99,
+      "category": "Wearables",
+      "rating": 3,
+      "stock": 50,
+"image": "https://picsum.photos/350/400",
+      "tags": ["fitness", "wearables", "health"]
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "description": "High-precision gaming mouse with customizable buttons.",
+      "price": 39.99,
+      "category": "Accessories",
+      "rating": 5,
+      "stock": 100,
+"image": "https://picsum.photos/350/400",
+      "tags": ["gaming", "mouse", "electronics"]
+    },
+    {
+      "id": 4,
+      "name": "Laptop Backpack",
+      "description": "Durable and spacious backpack with a laptop compartment.",
+      "price": 59.99,
+      "category": "Bags",
+      "rating": 5,
+      "stock": 20,
+"image": "https://picsum.photos/350/400",
+      "tags": ["laptop", "accessories", "bags"]
+    },
+    {
+      "id": 5,
+      "name": "4K Monitor",
+      "description": "27-inch 4K monitor with vibrant colors and HDR support.",
+      "price": 299.99,
+      "category": "Electronics",
+      "rating": 4,
+      "stock": 15,
+"image": "https://picsum.photos/350/400",
+      "tags": ["monitor", "4k", "electronics"]
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+      "price": 79.99,
+      "category": "Electronics",
+      "rating": 3,
+      "stock": 40,
+"image": "https://picsum.photos/350/400",
+      "tags": ["audio", "portable", "electronics"]
+    },
+    {
+      "id": 7,
+      "name": "Ergonomic Chair",
+      "description": "Adjustable ergonomic office chair with lumbar support.",
+      "price": 199.99,
+      "category": "Furniture",
+      "rating": 4,
+      "stock": 10,
+"image": "https://picsum.photos/350/400",
+      "tags": ["furniture", "office", "comfort"]
+    },
+    {
+      "id": 8,
+      "name": "Fitness Tracker",
+      "description": "Waterproof fitness tracker with heart rate and sleep monitoring.",
+      "price": 59.99,
+      "category": "Wearables",
+      "rating": 5,
+      "stock": 25,
+"image": "https://picsum.photos/350/400",
+      "tags": ["fitness", "wearables", "health"]
+    },
+    {
+      "id": 9,
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable electric toothbrush with multiple cleaning modes.",
+      "price": 49.99,
+      "category": "Health",
+      "rating": 3,
+      "stock": 70,
+"image": "https://picsum.photos/350/400",
+      "tags": ["health", "personal care", "toothbrush"]
+    },
+    {
+      "id": 10,
+      "name": "Water Bottle",
+      "description": "Insulated stainless steel water bottle with a leak-proof cap.",
+      "price": 19.99,
+      "category": "Accessories",
+      "rating": 4,
+      "stock": 200,
+"image": "https://picsum.photos/350/400",
+      "tags": ["hydration", "accessories", "outdoors"]
+    }
+  ]
+}

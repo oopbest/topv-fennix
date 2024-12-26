@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+
+    /* Footer Menu */
+    .accordion-item {
+        @apply overflow-hidden;
+    }
+
+    .accordion-content {
+        @apply overflow-hidden transition-max-height duration-300 ease-in-out;
+    }
+
+    .accordion-content.open {
+        max-height: 500px;
+        opacity: 1;
+    }
+
+    .accordion-icon {
+        @apply float-right transition-transform duration-300;
+    }
+
+    .accordion-header[aria-expanded="true"] .accordion-icon {
+        transform: rotate(180deg);
+    }
+
+    /* Animation Hamburger icon */
+    .toggle-btn {
+        @apply [&>div::before]:translate-y-0 [&>div::before]:rotate-45 [&>div::after]:translate-y-0 [&>div::after]:-rotate-45 [&>div]:bg-transparent [&>div]:rotate-[720deg]
+    }
+}

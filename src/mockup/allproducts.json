@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "stock": 25,
+    "image": "https://picsum.photos/id/1/500/500",
+    "short_description": "High-quality wireless headphones with noise cancellation and long battery life.",
+    "rating": 4,
+    "tags": ["wireless", "bluetooth", "headphones", "audio"],
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smart LED TV 55-inch",
+    "price": 599.99,
+    "stock": 10,
+    "image": "https://picsum.photos/id/2/500/500",
+    "short_description": "55-inch Smart LED TV with 4K UHD resolution and built-in streaming apps.",
+    "rating": 3,
+    "tags": ["tv", "electronics", "smart", "4k"],
+    "category": "Home Appliances"
+  },
+  {
+    "id": 3,
+    "name": "Ergonomic Office Chair",
+    "price": 129.99,
+    "stock": 50,
+    "image": "https://picsum.photos/id/3/500/500",
+    "short_description": "Comfortable ergonomic office chair with adjustable height and lumbar support.",
+    "rating": 5,
+    "tags": ["furniture", "office", "ergonomic", "chair"],
+    "category": "Furniture"
+  },
+  {
+    "id": 4,
+    "name": "Stainless Steel Insulated Water Bottle",
+    "price": 19.99,
+    "stock": 100,
+    "image": "https://picsum.photos/id/4/500/500",
+    "short_description": "Keeps beverages hot or cold for hours, ideal for travel and outdoor activities.",
+    "rating": 2,
+    "tags": ["bottle", "stainless steel", "insulated", "travel"],
+    "category": "Outdoor"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Laptop 15-inch",
+    "price": 1299.99,
+    "stock": 5,
+    "image": "https://picsum.photos/id/5/500/500",
+    "short_description": "High-performance gaming laptop with NVIDIA graphics and Intel i7 processor.",
+    "rating": 4,
+    "tags": ["laptop", "gaming", "electronics", "high-performance"],
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Electric Toothbrush",
+    "price": 49.99,
+    "stock": 75,
+    "image": "https://picsum.photos/id/6/500/500",
+    "short_description": "Rechargeable electric toothbrush with multiple cleaning modes for better oral care.",
+    "rating": 3,
+    "tags": ["toothbrush", "electric", "personal care"],
+    "category": "Health & Personal Care"
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat with Carrying Strap",
+    "price": 24.99,
+    "stock": 40,
+    "image": "https://picsum.photos/id/7/500/500",
+    "short_description": "Non-slip yoga mat with extra cushioning and carrying strap for easy transport.",
+    "rating": 5,
+    "tags": ["yoga", "exercise", "fitness", "mat"],
+    "category": "Fitness"
+  },
+  {
+    "id": 8,
+    "name": "Cordless Vacuum Cleaner",
+    "price": 159.99,
+    "stock": 30,
+    "image": "https://picsum.photos/id/8/500/500",
+    "short_description": "Lightweight cordless vacuum cleaner with powerful suction and multi-surface capabilities.",
+    "rating": 2,
+    "tags": ["vacuum", "cleaning", "cordless", "home"],
+    "category": "Home Appliances"
+  },
+  {
+    "id": 9,
+    "name": "Stainless Steel Cookware Set",
+    "price": 199.99,
+    "stock": 20,
+    "image": "https://picsum.photos/id/9/500/500",
+    "short_description": "10-piece stainless steel cookware set with non-stick coating for efficient cooking.",
+    "rating": 3,
+    "tags": ["cookware", "kitchen", "stainless steel", "cooking"],
+    "category": "Kitchen"
+  },
+  {
+    "id": 10,
+    "name": "Noise-Cancelling Earbuds",
+    "price": 59.99,
+    "stock": 60,
+    "image": "https://picsum.photos/id/10/500/500",
+    "short_description": "Compact noise-cancelling earbuds with Bluetooth connectivity and clear audio quality.",
+    "rating": 5,
+    "tags": ["earbuds", "audio", "bluetooth", "noise-cancelling"],
+    "category": "Electronics"
+  },
+  {
+    "id": 11,
+    "name": "Wireless Bluetooth Headphones xxx 1",
+    "price": 1111,
+    "stock": 25,
+    "image": "https://picsum.photos/id/11/500/500",
+    "short_description": "Wireless Bluetooth Headphones desc xxx 1. High-quality wireless headphones with noise cancellation and long battery life.",
+    "rating": 5,
+    "tags": ["wireless", "bluetooth", "headphones", "audio"],
+    "category": "Electronics"
+  },
+  {
+    "id": 12,
+    "name": "Wireless Bluetooth Headphones xxx 2",
+    "price": 2222,
+    "stock": 32,
+    "image": "https://picsum.photos/id/12/500/500",
+    "short_description": "Wireless Bluetooth Headphones desc xxx 2. High-quality wireless headphones with noise cancellation and long battery life.",
+    "rating": 4,
+    "tags": ["wireless", "bluetooth", "headphones", "audio"],
+    "category": "Electronics"
+  },
+  {
+    "id": 13,
+    "name": "Wireless Bluetooth Headphones xxx 3",
+    "price": 3333,
+    "stock": 43,
+    "image": "https://picsum.photos/id/13/500/500",
+    "short_description": "Wireless Bluetooth Headphones desc xxx 3. High-quality wireless headphones with noise cancellation and long battery life.",
+    "rating": 3,
+    "tags": ["wireless", "bluetooth", "headphones", "audio"],
+    "category": "Electronics"
+  }
+]
