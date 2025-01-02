@@ -33,9 +33,8 @@ const HomeBestSeller = () => {
               className="rounded-2xl"
             />
             <h2>
-              Fennix Ergonomic L-Shaped Desk โต๊ะทำงาน โต๊ะเพื่อสุขภาพ
-              โต๊ะปรับระดับอัตโนมัติด้วยระบบไฟฟ้า รูปตัว L - รับประกันศูนย์ไทย 3
-              ปี
+              Fennix Ergocushion รุ่น Base Pillow เบาะรองนั่งเพื่อสุขภาพ
+              ลดการกดทับ ของสะโพกและกระดูกก้นกบ
             </h2>
             <p className="font-bold text-theme-color">&#x0E3F; 499.-</p>
           </div>
