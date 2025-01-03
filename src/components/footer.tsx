@@ -255,8 +255,8 @@ const Footer = () => {
           src="/images/logo-white.png"
           alt="Logo"
           className="hidden sm:block absolute left-0 top-1/2 transform -translate-y-1/2"
-          width={96}
-          height={50}
+          width={100}
+          height={52}
         />
         <p>&copy; Topvalue 2024</p>
         <Link href="#">เงื่อนไขการใช้งาน</Link>

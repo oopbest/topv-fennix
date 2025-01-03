@@ -30,11 +30,10 @@ const Header = () => {
           <Link href="/" title="">
             <Image
               width={100}
-              height={29}
+              height={38}
               src="/images/logo.png"
               alt="Fennix Website Logo"
               priority={false}
-              className="lg: w-10/12"
             />
           </Link>
         </div>
@@ -57,7 +56,7 @@ const Header = () => {
         </div>
 
         {/* Search */}
-        <div className="sm:basis-10/12 lg:w-auto lg:basis-1/5">
+        <div className="sm:basis-7/12 lg:w-auto lg:basis-1/5">
           <ProductSearch />
         </div>
       </section>
