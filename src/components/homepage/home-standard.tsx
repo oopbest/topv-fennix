@@ -4,7 +4,7 @@ const HomeStandard = () => {
   // custom logic
   return (
     <>
-      <div className="bg-sky-100 px-4">
+      <div className="bg-gray-100 px-4">
         <div className="our-standards mx-auto container pt-10 pb-20">
           <h1 className="text-theme-color font-bold text-3xl text-center pb-10">
             มาตรฐานของเรา

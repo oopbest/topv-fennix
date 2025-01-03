@@ -77,7 +77,7 @@ const HomeFollowUs = () => {
           <div className="p-4 text-sm text-slate-500 shadow-md lg:w-1/3">
             <p>เกี่ยวกับ</p>
             <h3 className="text-theme-color font-bold text-2xl pt-2 pb-5">
-              บริษัท สวิทซ เฟลคซ จำกัด
+              บริษัท อเล็กทริค จำกัด
             </h3>
             <div className="pb-5 mb-5 border-b">
               <p>
