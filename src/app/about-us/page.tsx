@@ -20,7 +20,7 @@ const AboutusPage = () => {
           />
           <div className="border-b flex flex-col gap-5 py-5">
             <h1 className="text-theme-color font-bold text-2xl">
-              บริษัท สวิทซเฟลคซ จำกัด
+              บริษัท อเล็กทริค จำกัด
             </h1>
             <p className="">
               ก่อตั้งขึ้นเมื่อปี 2005
@@ -57,12 +57,12 @@ const AboutusPage = () => {
           </div>
           <div className="flex flex-col gap-3 py-4">
             <h1 className="text-theme-color font-bold text-2xl">
-              บริษัท สวิทซเฟลคซ จำกัด
+              บริษัท อเล็กทริค จำกัด
             </h1>
             <h3 className="font-bold text-theme-color">สำนักงานใหญ่</h3>
             <p>
               <FontAwesomeIcon icon={faLocationDot} className="pe-1" /> บริษัท
-              สวิทซเฟลคซ จำกัด เลขที่ 30/119 หมู่ 1 ต.โคกขาม อ.เมือง จ.สมุทรสาคร
+              อเล็กทริค จำกัด เลขที่ 30/119 หมู่ 1 ต.โคกขาม อ.เมือง จ.สมุทรสาคร
               74000
             </p>
             <p>
