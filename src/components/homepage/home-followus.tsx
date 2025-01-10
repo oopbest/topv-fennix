@@ -100,11 +100,11 @@ const HomeFollowUs = () => {
               <p>ไปยังเว็บไซต์</p>
               <div className="flex pt-3">
                 <Image
-                  width={106}
+                  width={76}
                   height={21}
-                  src="/images/switchflex-logo.svg"
-                  alt="Switchflex"
-                  className="object-contain"
+                  src="/images/logo-alectric.svg"
+                  alt="Alectric"
+                  className="object-contain me-3"
                 />
                 <Link
                   href="#"
